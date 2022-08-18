@@ -1,0 +1,15 @@
+{
+  "name": "binlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "binlookup": "^2.0.1"
+  }
+}
